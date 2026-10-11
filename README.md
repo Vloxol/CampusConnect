@@ -214,10 +214,10 @@ Every member contributes through their own branches and pull requests. Do not co
 
 | Name | Role / Contribution |
 |---|---|
-| _Your Name_ | _e.g. Backend and database_ |
-| _Teammate 2_ | _e.g. Frontend pages_ |
-| _Teammate 3_ | _e.g. Dashboard and admin features_ |
-
+| Kaustubh Prashar | Python |
+| Pratyush Kumar| JavaScript|
+| Lakshay Sharma | CSS |
+| Rasik Puri | HTML |
 ---
 
 [Features](#what-you-can-do) · [Quick start](#quick-start) · [How it works](#how-it-works) · [API](#api-reference) · [FAQ](#faq) · [Team](#team-members)

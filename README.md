@@ -183,21 +183,6 @@ Interactive API docs are available at http://127.0.0.1:8000/docs while the serve
 - **Not built yet:** password reset, editing or deleting an issue, email notifications, live (push) message updates. The Messages page refreshes every 10 seconds instead.
 - **Not in scope:** this is a learning project. It has not been hardened for production use.
 
-## Roadmap
-
-**Now**
-1. Finish the team's GitHub workflow: every member contributes through branches and pull requests.
-
-**Next**
-1. Password reset
-2. Let students edit or close their own issues
-3. Email notifications for status changes and new messages
-
-**Later**
-1. Image attachments on issues
-2. Real-time messaging
-3. Admin analytics (issues per category, average time to resolve)
-
 ## FAQ
 
 **Why does the page show a server error when I use `python -m http.server`?**
